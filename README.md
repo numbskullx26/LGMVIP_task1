@@ -4,4 +4,5 @@ This is the first Task of the Virtual Internship Programme conducted by LetsGrow
 ![image](https://user-images.githubusercontent.com/97308605/191931156-10f622da-915d-4dc9-aa1d-1bae107385f7.png)
 <br>
 <hr>
-![image](https://user-images.githubusercontent.com/97308605/191931673-c95f4e06-b043-4e65-a26d-a2e77fcb9448.png)
+
+![image](https://user-images.githubusercontent.com/97308605/191931794-ad66cda5-0861-44fe-87d9-10874ac3b4a6.png)
